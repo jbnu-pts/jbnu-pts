@@ -1,5 +1,7 @@
 ### Publications
 
+---
+
 #### 2021
 
 `-` Lee, K. A., Jin, H. Y., Jeong, S. H., Kim, J. H., Kim, Y. J., & Park, T. S. (2021). Trends in Medication Utilization and Glycemic Control Among Type 2 Diabetes Using a Common Data Model Based on Electronic Health Records From 2000 to 2019. *Journal of the Endocrine Society*, Volume 5, Issue Supplement_1, April-May 2021, Page A481.
