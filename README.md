@@ -1,3 +1,10 @@
+### Greetings
+
+---
+
+Center for Clinical Bigdata of Jeonbuk National University Hospital is promoting various big data platform construction projects to increase the utilization of health and medical data.  
+In addition, We will provide the most efficient service for developing an accurate customized medical diagnosis and treatment assistance system using accumulated big data to increase the utilization of clinical data.
+
 ### Publications
 
 ---
